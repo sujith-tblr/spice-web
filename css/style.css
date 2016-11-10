@@ -188,17 +188,17 @@ img {
 #body.home .header div h1 {
   color: #FFFFFF;
   display: block;
-  float: right;
+
   font-family: audiowide-regular-webfont;
   font-size: 60px;
   font-weight: normal;
   line-height: 60px;
-  margin: 187px 0 27px;
-  padding: 0 38px 0 399px;
+  margin: 0px 0 0px;
+  padding: 0 0px 0 0px;
   position: relative;
-  text-align: right;
+  text-align: center;
   text-transform: uppercase;
-  width: 503px;
+  
   z-index: 60;
 }
 #body.home .header div h2 {
@@ -1426,6 +1426,8 @@ img {
     margin: 0 auto; 
     left: 5%;
     }
+
+
     
   .carousel-inner img {
       width: 100%; /* Set width to 100% */
