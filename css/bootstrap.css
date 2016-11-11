@@ -2348,7 +2348,7 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #428bca;
+  background-color: #353535;
   -webkit-transition:0.3s;
   -moz-transition:0.3s;
   -o-transition:0.3s;
@@ -4705,7 +4705,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #428BCA;
+  background-color: #353535;
 }
 
 .navbar-default .navbar-brand {
