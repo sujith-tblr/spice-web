@@ -1425,11 +1425,10 @@ img {
      width: 80%;
     margin: 0 auto; 
     left: 5%;
+    bottom: 40px;
     }
 
-
-    
-  .carousel-inner img {
+   .carousel-inner img {
       width: 100%; /* Set width to 100% */
       margin: auto;
       min-height:200px;
