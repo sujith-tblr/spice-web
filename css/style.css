@@ -13,7 +13,7 @@ header {
 	color: #fff;
 }
 header h1 {
-	font-size: 60px;
+	font-size: 80px;
 	margin-top: 120px;
 	  font-weight: bold;
 	  text-shadow: 2px 2px 8px #111;
@@ -178,6 +178,7 @@ svg#bigTriangleColor {
 }
 #sponsor {
 	background: url(../img/xx.jpg);
+	background-size:cover;
 	padding-top: 40px;
 	padding-bottom: 60px;
 	color: #ffffff;

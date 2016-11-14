@@ -5271,8 +5271,8 @@ a.list-group-item.active > .badge,
 }
 
 .thumbnail {
+  border: 1px solid #D0CECE;
   display: block;
-  padding: 4px;
   margin-bottom: 20px;
   line-height: 1.428571429;
   -webkit-transition: all 0.2s ease-in-out;
